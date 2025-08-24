@@ -31,7 +31,7 @@ This project was created as part of my web development learning journey.
 ---
 
 ## 🌐 Live Demo
-Check it out here: [Flexbox Pricing Table]()
+Check it out here: [Flexbox Pricing Table](https://0xetor.github.io/flexbox-pricing-table/)
 
 ---
 
