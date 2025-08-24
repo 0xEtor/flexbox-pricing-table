@@ -15,8 +15,7 @@ This project was created as part of my web development learning journey.
 ---
 
 ## 🖼️ Preview
-![Pricing Table Screenshot](screenshot.png)  
-*(You can add a screenshot of your project here — just take a screenshot, save it as `screenshot.png`, and upload it to the repo.)*
+![Pricing Table Screenshot](https://github.com/0xEtor/flexbox-pricing-table/blob/main/Screenshot%202025-08-24%20101111.png)  
 
 ---
 
@@ -32,7 +31,7 @@ This project was created as part of my web development learning journey.
 ---
 
 ## 🌐 Live Demo
-Check it out here: [Flexbox Pricing Table](https://your-username.github.io/flexbox-pricing-table/)
+Check it out here: [Flexbox Pricing Table]()
 
 ---
 
